@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/linked/static/css/main.82ed58c3.css",
-    "main.js": "/linked/static/js/main.bc4b5201.js",
+    "main.css": "/linked/static/css/main.f630e7e0.css",
+    "main.js": "/linked/static/js/main.7cc4466c.js",
     "static/js/872.5cfaa33b.chunk.js": "/linked/static/js/872.5cfaa33b.chunk.js",
     "static/js/227.ff14c218.chunk.js": "/linked/static/js/227.ff14c218.chunk.js",
     "static/js/526.db29da61.chunk.js": "/linked/static/js/526.db29da61.chunk.js",
@@ -9,9 +9,17 @@
     "static/js/237.f401b021.chunk.js": "/linked/static/js/237.f401b021.chunk.js",
     "static/js/357.b0bfa10b.chunk.js": "/linked/static/js/357.b0bfa10b.chunk.js",
     "static/js/787.fc202a66.chunk.js": "/linked/static/js/787.fc202a66.chunk.js",
+    "static/media/cageroll-standard-webfont.svg": "/linked/static/media/cageroll-standard-webfont.f5e516581d3845f859fd.svg",
+    "static/media/cageroll-standard-webfont.eot": "/linked/static/media/cageroll-standard-webfont.00f1d7eb535746a25a46.eot",
+    "static/media/cageroll-standard-webfont.ttf": "/linked/static/media/cageroll-standard-webfont.91992027327bf0680679.ttf",
+    "static/media/dojebi-webfont.svg": "/linked/static/media/dojebi-webfont.5184b447bf02aed0ee64.svg",
+    "static/media/cageroll-standard-webfont.woff": "/linked/static/media/cageroll-standard-webfont.0ebed4662e8a2a5019a6.woff",
+    "static/media/dojebi-webfont.eot": "/linked/static/media/dojebi-webfont.7c69687d7bf4edd23739.eot",
+    "static/media/dojebi-webfont.ttf": "/linked/static/media/dojebi-webfont.c770b8d3e012c94708d4.ttf",
+    "static/media/dojebi-webfont.woff": "/linked/static/media/dojebi-webfont.845a4a1b1b1c8095ed63.woff",
     "index.html": "/linked/index.html",
-    "main.82ed58c3.css.map": "/linked/static/css/main.82ed58c3.css.map",
-    "main.bc4b5201.js.map": "/linked/static/js/main.bc4b5201.js.map",
+    "main.f630e7e0.css.map": "/linked/static/css/main.f630e7e0.css.map",
+    "main.7cc4466c.js.map": "/linked/static/js/main.7cc4466c.js.map",
     "872.5cfaa33b.chunk.js.map": "/linked/static/js/872.5cfaa33b.chunk.js.map",
     "227.ff14c218.chunk.js.map": "/linked/static/js/227.ff14c218.chunk.js.map",
     "526.db29da61.chunk.js.map": "/linked/static/js/526.db29da61.chunk.js.map",
@@ -21,7 +29,7 @@
     "787.fc202a66.chunk.js.map": "/linked/static/js/787.fc202a66.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.82ed58c3.css",
-    "static/js/main.bc4b5201.js"
+    "static/css/main.f630e7e0.css",
+    "static/js/main.7cc4466c.js"
   ]
 }

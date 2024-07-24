@@ -1,6 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Silkscreen:wght@400;700&display=swap');
+
+
+  @font-face{
+    font-family: 'Dojebi';
+    src: url('./Dojebi/dojebi-webfont.eot');
+    src: url('./Dojebi/dojebi-webfont.eot?#iefix') format('embedded-opentype'),
+    url('./Dojebi/dojebi-webfont.woff') format('woff'),
+    url('./Dojebi/dojebi-webfont.ttf') format('truetype'),
+    url('./Dojebi/dojebi-webfont.svg#webfont') format('svg');
+    }
+
+    @font-face{
+      font-family: 'Cageroll';
+      src: url('./Cageroll/cageroll-standard-webfont.eot');
+      src: url('./Cageroll/cageroll-standard-webfont.eot?#iefix') format('embedded-opentype'),
+      url('./Cageroll/cageroll-standard-webfont.woff') format('woff'),
+      url('./Cageroll/cageroll-standard-webfont.ttf') format('truetype'),
+      url('./Cageroll/cageroll-standard-webfont.svg#webfont') format('svg');
+      }
+
 body {
   margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+  font-family: 'Silkscreen', -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
     'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
     sans-serif;
   -webkit-font-smoothing: antialiased;
